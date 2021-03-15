@@ -1,0 +1,10 @@
+C:\Users\bazya\source\repos\calc -ez\calc -ez\bin\Debug\calc -ez.exe.config
+C:\Users\bazya\source\repos\calc -ez\calc -ez\bin\Debug\calc -ez.exe
+C:\Users\bazya\source\repos\calc -ez\calc -ez\bin\Debug\calc -ez.pdb
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc -ez.csprojAssemblyReference.cache
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc__ez.Form1.resources
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc__ez.Properties.Resources.resources
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc -ez.csproj.GenerateResource.cache
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc -ez.csproj.CoreCompileInputs.cache
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc -ez.exe
+C:\Users\bazya\source\repos\calc -ez\calc -ez\obj\Debug\calc -ez.pdb
